@@ -1,0 +1,112 @@
+{
+  "id": "bnb-compendium",
+  "title": "BnB Compendium",
+  "version": "Alpha 2025.04.03:2225",
+  "_comment": "REMEMBER TO REMOVE THE '[NR]' FROM PACKS BEFORE RELEASE!!",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "bunkers-and-badasses",
+        "type": "system",
+        "compatibility": {
+          "verified": "0.6.0"
+        }
+      }
+    ],
+    "requires": [
+      {
+        "id": "better-rolltables",
+        "type": "module",
+        "compatibility": {
+          "verified": "12.0.1"
+        }
+      }
+    ]
+  },
+  "description": "A compendium of character creation items, basic pre-generated items, and alot of loot tables.",
+  "authors": [
+    {
+      "name": "That One ROB",
+      "discord": "thatonerob",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "character-classes",
+      "label": "Character Classes [NR]",
+      "path": "packs/character-classes",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "bunkers-and-badasses",
+      "flags": {}
+    },
+    {
+      "name": "character-archetypes",
+      "label": "Character Archetypes [NR]",
+      "path": "packs/character-archetypes",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "bunkers-and-badasses",
+      "flags": {}
+    },
+    {
+      "name": "equipment",
+      "label": "Equipment [NR]",
+      "path": "packs/equipment",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "LIMITED",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "bunkers-and-badasses",
+      "flags": {}
+    },
+    {
+      "name": "rollable-tables",
+      "label": "Rollable Tables [NR]",
+      "path": "packs/rollable-tables",
+      "type": "RollTable",
+      "ownership": {
+        "PLAYER": "NONE",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "bunkers-and-badasses",
+      "flags": {}
+    },
+    {
+      "name": "enemies",
+      "label": "Enemies [NR]",
+      "path": "packs/enemies",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "NONE",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "bunkers-and-badasses",
+      "flags": {}
+    },
+    {
+      "name": "game-mechanics",
+      "label": "Game Mechanics [NR]",
+      "path": "packs/game-mechanics",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "bunkers-and-badasses",
+      "flags": {}
+    }
+  ]
+}
