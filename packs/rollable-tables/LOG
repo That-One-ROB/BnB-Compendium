@@ -1,15 +1,9 @@
-2025/04/04-11:34:23.977 2cd4 Recovering log #47
-2025/04/04-11:34:23.982 2cd4 Delete type=0 #47
-2025/04/04-11:34:23.982 2cd4 Delete type=3 #46
-2025/04/04-11:56:25.220 2998 Level-0 table #51: started
-2025/04/04-11:56:25.220 2998 Level-0 table #51: 4718 bytes OK
-2025/04/04-11:56:25.236 2998 Delete type=0 #49
-2025/04/04-11:56:25.236 2998 Manual compaction at level-0 from '!folders!5AA8LBda49DjM6zc' @ 72057594037927935 : 1 .. '!tables.results!x1eV1Ov7HKAa8LYp.zqkyj2YckAjJbXwS' @ 0 : 0; will stop at (end)
-2025/04/04-11:56:25.236 2998 Manual compaction at level-1 from '!folders!5AA8LBda49DjM6zc' @ 72057594037927935 : 1 .. '!tables.results!x1eV1Ov7HKAa8LYp.zqkyj2YckAjJbXwS' @ 0 : 0; will stop at '!tables.results!dwFnqpkYe15NiTYl.zc8AMIVpgKMBEGoq' @ 1124 : 1
-2025/04/04-11:56:25.236 2998 Compacting 1@1 + 1@2 files
-2025/04/04-11:56:25.283 2998 Generated table #52@1: 1136 keys, 193013 bytes
-2025/04/04-11:56:25.283 2998 Compacted 1@1 + 1@2 files => 193013 bytes
-2025/04/04-11:56:25.283 2998 compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/04/04-11:56:25.283 2998 Delete type=2 #5
-2025/04/04-11:56:25.283 2998 Delete type=2 #51
-2025/04/04-11:56:25.323 2998 Manual compaction at level-1 from '!tables.results!dwFnqpkYe15NiTYl.zc8AMIVpgKMBEGoq' @ 1124 : 1 .. '!tables.results!x1eV1Ov7HKAa8LYp.zqkyj2YckAjJbXwS' @ 0 : 0; will stop at (end)
+2025/04/04-20:01:18.359 245c Recovering log #117
+2025/04/04-20:01:18.391 245c Delete type=0 #117
+2025/04/04-20:01:18.391 245c Delete type=3 #53
+2025/04/04-20:01:18.391 245c Delete type=3 #113
+2025/04/04-21:13:30.000 2318 Level-0 table #122: started
+2025/04/04-21:13:30.001 2318 Level-0 table #122: 0 bytes OK
+2025/04/04-21:13:30.004 2318 Delete type=0 #120
+2025/04/04-21:13:30.027 2318 Manual compaction at level-0 from '!folders!5AA8LBda49DjM6zc' @ 72057594037927935 : 1 .. '!tables.results!x1eV1Ov7HKAa8LYp.zqkyj2YckAjJbXwS' @ 0 : 0; will stop at (end)
+2025/04/04-21:13:30.027 2318 Manual compaction at level-1 from '!folders!5AA8LBda49DjM6zc' @ 72057594037927935 : 1 .. '!tables.results!x1eV1Ov7HKAa8LYp.zqkyj2YckAjJbXwS' @ 0 : 0; will stop at (end)

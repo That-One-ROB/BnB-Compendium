@@ -1,7 +1,7 @@
 {
   "id": "bnb-compendium",
   "title": "BnB Compendium",
-  "version": "Alpha 2025.04.04:1153",
+  "version": "Alpha 2025.04.04:2112",
   "_comment": "REMEMBER TO REMOVE THE '[NR]' FROM PACKS BEFORE RELEASE!!",
   "compatibility": {
     "minimum": "12",
@@ -108,5 +108,7 @@
       "system": "bunkers-and-badasses",
       "flags": {}
     }
-  ]
+  ],
+  "url": "https://github.com/trebor5007/BnB-Compendium",
+  "manifest": "https://github.com/trebor5007/BnB-Compendium/releases/latest/download/module.json"
 }
