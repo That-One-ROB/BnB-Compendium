@@ -1,7 +1,7 @@
 {
   "id": "bnb-compendium",
   "title": "BnB Compendium",
-  "version": "Alpha 2025.04.04:2112",
+  "version": "Alpha 2025.04.05:1705",
   "_comment": "REMEMBER TO REMOVE THE '[NR]' FROM PACKS BEFORE RELEASE!!",
   "compatibility": {
     "minimum": "12",
@@ -109,6 +109,7 @@
       "flags": {}
     }
   ],
-  "url": "https://github.com/trebor5007/BnB-Compendium",
-  "manifest": "https://github.com/trebor5007/BnB-Compendium/releases/latest/download/module.json"
+  "url": "https://github.com/That-One-ROB/BnB-Compendium",
+  "manifest": "https://github.com/That-One-ROB/BnB-Compendium/releases/latest/download/module.json",
+  "download": "https://github.com/That-One-ROB/BnB-Compendium/archive/refs/heads/master.zip"
 }
