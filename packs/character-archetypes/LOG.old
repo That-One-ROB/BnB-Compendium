@@ -1,8 +1,15 @@
-2025/04/09-20:05:42.135848 70000b544000 Recovering log #249
-2025/04/09-20:05:42.138546 70000b544000 Delete type=0 #249
-2025/04/09-20:05:42.138794 70000b544000 Delete type=3 #248
-2025/04/09-20:10:35.436179 70000549d000 Level-0 table #253: started
-2025/04/09-20:10:35.436378 70000549d000 Level-0 table #253: 0 bytes OK
-2025/04/09-20:10:35.436680 70000549d000 Delete type=0 #251
-2025/04/09-20:10:35.436872 70000549d000 Manual compaction at level-0 from '!folders!BfRIYC4yhnRKiKV2' @ 72057594037927935 : 1 .. '!items!zht4XiPXD849V1p3' @ 0 : 0; will stop at (end)
-2025/04/09-20:10:35.436917 70000549d000 Manual compaction at level-1 from '!folders!BfRIYC4yhnRKiKV2' @ 72057594037927935 : 1 .. '!items!zht4XiPXD849V1p3' @ 0 : 0; will stop at (end)
+2025/04/10-13:11:30.284600 700013715000 Recovering log #266
+2025/04/10-13:11:30.291128 700013715000 Delete type=0 #266
+2025/04/10-13:11:30.291721 700013715000 Delete type=3 #264
+2025/04/10-13:18:08.587815 70000cce2000 Level-0 table #272: started
+2025/04/10-13:18:08.604570 70000cce2000 Level-0 table #272: 2428 bytes OK
+2025/04/10-13:18:08.606107 70000cce2000 Delete type=0 #270
+2025/04/10-13:18:08.613560 70000cce2000 Manual compaction at level-0 from '!folders!BfRIYC4yhnRKiKV2' @ 72057594037927935 : 1 .. '!items!zht4XiPXD849V1p3' @ 0 : 0; will stop at (end)
+2025/04/10-13:18:08.614251 70000cce2000 Manual compaction at level-1 from '!folders!BfRIYC4yhnRKiKV2' @ 72057594037927935 : 1 .. '!items!zht4XiPXD849V1p3' @ 0 : 0; will stop at '!items!z8VakSsc7Wwm9HWB' @ 440 : 0
+2025/04/10-13:18:08.614311 70000cce2000 Compacting 1@1 + 1@2 files
+2025/04/10-13:18:08.855915 70000cce2000 Generated table #273@1: 76 keys, 24257 bytes
+2025/04/10-13:18:08.855991 70000cce2000 Compacted 1@1 + 1@2 files => 24257 bytes
+2025/04/10-13:18:08.957080 70000cce2000 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/04/10-13:18:09.018816 70000cce2000 Delete type=2 #272
+2025/04/10-13:18:09.033388 70000cce2000 Delete type=2 #268
+2025/04/10-13:18:09.066873 70000cce2000 Manual compaction at level-1 from '!items!z8VakSsc7Wwm9HWB' @ 440 : 0 .. '!items!zht4XiPXD849V1p3' @ 0 : 0; will stop at (end)
