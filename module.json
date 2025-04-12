@@ -1,7 +1,7 @@
 {
   "id": "bnb-compendium",
   "title": "BnB Compendium",
-  "version": "Alpha 2025.04.07:2027",
+  "version": "Alpha 2025.04.12:0553",
   "_comment": "REMEMBER TO REMOVE THE '[NR]' FROM PACKS BEFORE RELEASE!!",
   "compatibility": {
     "minimum": "12",
@@ -32,6 +32,12 @@
     {
       "name": "That One ROB",
       "discord": "thatonerob",
+      "git-hub": "That-One-ROB",
+      "flags": {}
+    },
+    {
+      "name": "Wyvern",
+      "git-hub": "Greendraco720",
       "flags": {}
     }
   ],
