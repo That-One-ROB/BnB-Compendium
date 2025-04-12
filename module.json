@@ -1,8 +1,7 @@
 {
   "id": "bnb-compendium",
   "title": "BnB Compendium",
-  "version": "Alpha 2025.04.06:2024",
-  "_comment": "REMEMBER TO REMOVE THE '[NR]' FROM PACKS BEFORE RELEASE!!",
+  "version": "Beta 0.1",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
@@ -32,13 +31,19 @@
     {
       "name": "That One ROB",
       "discord": "thatonerob",
+      "git-hub": "That-One-ROB",
+      "flags": {}
+    },
+    {
+      "name": "Wyvern",
+      "git-hub": "Greendraco720",
       "flags": {}
     }
   ],
   "packs": [
     {
       "name": "character-classes",
-      "label": "Character Classes [NR]",
+      "label": "Character Classes",
       "path": "packs/character-classes",
       "type": "Item",
       "ownership": {
@@ -50,7 +55,7 @@
     },
     {
       "name": "character-archetypes",
-      "label": "Character Archetypes [NR]",
+      "label": "Character Archetypes",
       "path": "packs/character-archetypes",
       "type": "Item",
       "ownership": {
@@ -62,7 +67,7 @@
     },
     {
       "name": "equipment",
-      "label": "Equipment [NR]",
+      "label": "Equipment",
       "path": "packs/equipment",
       "type": "Item",
       "ownership": {
@@ -74,7 +79,7 @@
     },
     {
       "name": "rollable-tables",
-      "label": "Rollable Tables [NR]",
+      "label": "Rollable Tables",
       "path": "packs/rollable-tables",
       "type": "RollTable",
       "ownership": {
@@ -86,7 +91,7 @@
     },
     {
       "name": "enemies",
-      "label": "Enemies [NR]",
+      "label": "Enemies",
       "path": "packs/enemies",
       "type": "Actor",
       "ownership": {
@@ -98,7 +103,7 @@
     },
     {
       "name": "game-mechanics",
-      "label": "Game Mechanics [NR]",
+      "label": "Player Information",
       "path": "packs/game-mechanics",
       "type": "JournalEntry",
       "ownership": {
