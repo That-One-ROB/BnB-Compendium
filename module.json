@@ -59,7 +59,7 @@
       "path": "packs/equipment",
       "type": "Item",
       "ownership": {
-        "PLAYER": "NONE",
+        "PLAYER": "LIMITED",
         "ASSISTANT": "OWNER"
       },
       "system": "bunkers-and-badasses",
