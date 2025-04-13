@@ -1,5 +1,12 @@
-2025/04/13-12:45:12.474 18e0 Log #180: 0 ops saved to Table #183 OK
-2025/04/13-12:45:12.474 18e0 Archiving F:\Foundry VTT Data\Data\modules\bnb-compendium\packs\enemies/000180.log: OK
-2025/04/13-12:45:12.519 18e0 Table #182: 288 entries OK
-2025/04/13-12:45:12.602 18e0 Archiving F:\Foundry VTT Data\Data\modules\bnb-compendium\packs\enemies/MANIFEST-000178: OK
-2025/04/13-12:45:12.684 18e0 **** Repaired leveldb F:\Foundry VTT Data\Data\modules\bnb-compendium\packs\enemies; recovered 1 files; 176000 bytes. Some data may have been lost. ****
+2025/04/13-12:45:12.839 18e0 Delete type=3 #1
+2025/04/13-13:58:37.665 5dd8 Level-0 table #187: started
+2025/04/13-13:58:37.722 5dd8 Level-0 table #187: 159645 bytes OK
+2025/04/13-13:58:37.799 5dd8 Delete type=0 #185
+2025/04/13-13:58:37.893 5dd8 Manual compaction at level-0 from '!actors!0eci1VuyPL3IhIpR' @ 72057594037927935 : 1 .. '!folders!uu51dqbMtD00bwxJ' @ 0 : 0; will stop at '!folders!N2mzqP28sSzWDMPx' @ 465 : 1
+2025/04/13-13:58:37.893 5dd8 Compacting 2@0 + 0@1 files
+2025/04/13-13:58:37.933 5dd8 Generated table #188@0: 290 keys, 178880 bytes
+2025/04/13-13:58:37.933 5dd8 Compacted 2@0 + 0@1 files => 178880 bytes
+2025/04/13-13:58:37.998 5dd8 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/04/13-13:58:37.998 5dd8 Delete type=2 #182
+2025/04/13-13:58:37.998 5dd8 Delete type=2 #187
+2025/04/13-13:58:37.998 5dd8 Manual compaction at level-0 from '!folders!N2mzqP28sSzWDMPx' @ 465 : 1 .. '!folders!uu51dqbMtD00bwxJ' @ 0 : 0; will stop at (end)

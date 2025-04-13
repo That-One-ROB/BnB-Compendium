@@ -1,7 +1,7 @@
 {
   "id": "bnb-compendium",
   "title": "BnB Compendium",
-  "version": "Beta 0.1.2",
+  "version": "Beta 0.1.3",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
@@ -71,7 +71,7 @@
       "path": "packs/equipment",
       "type": "Item",
       "ownership": {
-        "PLAYER": "LIMITED",
+        "PLAYER": "NONE",
         "ASSISTANT": "OWNER"
       },
       "system": "bunkers-and-badasses",
@@ -91,7 +91,7 @@
     },
     {
       "name": "enemies",
-      "label": "Enemies",
+      "label": "Actors",
       "path": "packs/enemies",
       "type": "Actor",
       "ownership": {
