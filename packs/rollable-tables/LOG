@@ -1,8 +1,15 @@
-2025/10/02-19:32:00.548 465c Recovering log #259
-2025/10/02-19:32:00.687 465c Delete type=0 #259
-2025/10/02-19:32:00.687 465c Delete type=3 #257
-2025/10/03-03:18:30.663 970 Level-0 table #264: started
-2025/10/03-03:18:30.663 970 Level-0 table #264: 0 bytes OK
-2025/10/03-03:18:30.740 970 Delete type=0 #262
-2025/10/03-03:18:30.862 970 Manual compaction at level-0 from '!folders!5AA8LBda49DjM6zc' @ 72057594037927935 : 1 .. '!tables.results!vfdB2yt2caVsJBDF.w9hZg5tY32cpvfww' @ 0 : 0; will stop at (end)
-2025/10/03-03:18:30.862 970 Manual compaction at level-1 from '!folders!5AA8LBda49DjM6zc' @ 72057594037927935 : 1 .. '!tables.results!vfdB2yt2caVsJBDF.w9hZg5tY32cpvfww' @ 0 : 0; will stop at (end)
+2025/10/03-13:30:58.503 3904 Recovering log #263
+2025/10/03-13:30:58.675 3904 Delete type=0 #263
+2025/10/03-13:30:58.675 3904 Delete type=3 #261
+2025/10/03-15:46:37.567 d4f0 Level-0 table #268: started
+2025/10/03-15:46:37.613 d4f0 Level-0 table #268: 137154 bytes OK
+2025/10/03-15:46:37.688 d4f0 Delete type=0 #266
+2025/10/03-15:46:37.688 d4f0 Manual compaction at level-0 from '!folders!5AA8LBda49DjM6zc' @ 72057594037927935 : 1 .. '!tables.results!vfdB2yt2caVsJBDF.w9hZg5tY32cpvfww' @ 0 : 0; will stop at (end)
+2025/10/03-15:46:37.844 d4f0 Manual compaction at level-1 from '!folders!5AA8LBda49DjM6zc' @ 72057594037927935 : 1 .. '!tables.results!vfdB2yt2caVsJBDF.w9hZg5tY32cpvfww' @ 0 : 0; will stop at '!tables.results!pyf8AGgbLzw9lxDv.zbjBmobTID6mdvvI' @ 64456 : 1
+2025/10/03-15:46:37.844 d4f0 Compacting 1@1 + 1@2 files
+2025/10/03-15:46:37.938 d4f0 Generated table #269@1: 1580 keys, 339835 bytes
+2025/10/03-15:46:37.938 d4f0 Compacted 1@1 + 1@2 files => 339835 bytes
+2025/10/03-15:46:37.998 d4f0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/10/03-15:46:37.998 d4f0 Delete type=2 #256
+2025/10/03-15:46:37.999 d4f0 Delete type=2 #268
+2025/10/03-15:46:38.218 d4f0 Manual compaction at level-1 from '!tables.results!pyf8AGgbLzw9lxDv.zbjBmobTID6mdvvI' @ 64456 : 1 .. '!tables.results!vfdB2yt2caVsJBDF.w9hZg5tY32cpvfww' @ 0 : 0; will stop at (end)
