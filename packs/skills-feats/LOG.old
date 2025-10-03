@@ -1,0 +1,8 @@
+2025/10/02-19:26:15.983 8dc4 Recovering log #362
+2025/10/02-19:26:16.136 8dc4 Delete type=0 #362
+2025/10/02-19:26:16.137 8dc4 Delete type=3 #360
+2025/10/02-19:31:49.444 970 Level-0 table #368: started
+2025/10/02-19:31:49.444 970 Level-0 table #368: 0 bytes OK
+2025/10/02-19:31:49.522 970 Delete type=0 #366
+2025/10/02-19:31:49.710 970 Manual compaction at level-0 from '!folders!27uUXJryuF5NfFCg' @ 72057594037927935 : 1 .. '!items!zvZOwSFJYNdC0V7B' @ 0 : 0; will stop at (end)
+2025/10/02-19:31:49.710 970 Manual compaction at level-1 from '!folders!27uUXJryuF5NfFCg' @ 72057594037927935 : 1 .. '!items!zvZOwSFJYNdC0V7B' @ 0 : 0; will stop at (end)
