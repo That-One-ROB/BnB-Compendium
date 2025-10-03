@@ -1,10 +1,10 @@
 {
   "id": "bnb-compendium",
   "title": "BnB Compendium",
-  "version": "Beta 0.1.5",
+  "version": "Beta 0.1",
   "compatibility": {
     "minimum": "12",
-    "verified": "13.350"
+    "verified": "12"
   },
   "relationships": {
     "systems": [
@@ -12,16 +12,16 @@
         "id": "bunkers-and-badasses",
         "type": "system",
         "compatibility": {
-          "verified": "0.7.2"
+          "verified": "0.6.0"
         }
       }
     ],
     "requires": [
       {
-        "id": "item-piles",
+        "id": "better-rolltables",
         "type": "module",
         "compatibility": {
-          "verified": "3.2.27"
+          "verified": "12.0.1"
         }
       }
     ]
@@ -42,9 +42,21 @@
   ],
   "packs": [
     {
-      "name": "skills-feats",
-      "label": "Skills and Feats",
-      "path": "packs/skills-feats",
+      "name": "character-classes",
+      "label": "Character Classes",
+      "path": "packs/character-classes",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "bunkers-and-badasses",
+      "flags": {}
+    },
+    {
+      "name": "character-archetypes",
+      "label": "Character Archetypes",
+      "path": "packs/character-archetypes",
       "type": "Item",
       "ownership": {
         "PLAYER": "OBSERVER",
@@ -79,7 +91,7 @@
     },
     {
       "name": "enemies",
-      "label": "Actors",
+      "label": "Enemies",
       "path": "packs/enemies",
       "type": "Actor",
       "ownership": {
