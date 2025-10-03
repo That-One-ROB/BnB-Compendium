@@ -15,6 +15,15 @@
           "verified": "0.7.2"
         }
       }
+    ],
+    "requires": [
+      {
+        "id": "item-piles",
+        "type": "module",
+        "compatibility": {
+          "verified": "3.2.27"
+        }
+      }
     ]
   },
   "description": "A compendium of character creation items, basic pre-generated items, and alot of loot tables.",
