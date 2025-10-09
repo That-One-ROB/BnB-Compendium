@@ -1,14 +1,14 @@
-2025/10/08-18:49:17.720 81fc Recovering log #280
-2025/10/08-18:49:17.848 81fc Delete type=0 #280
-2025/10/08-18:49:17.849 81fc Delete type=3 #278
-2025/10/08-19:28:57.404 706c Level-0 table #286: started
-2025/10/08-19:28:57.471 706c Level-0 table #286: 309678 bytes OK
-2025/10/08-19:28:57.536 706c Delete type=0 #284
-2025/10/08-19:28:57.626 706c Manual compaction at level-0 from '!actors!0eci1VuyPL3IhIpR' @ 72057594037927935 : 1 .. '!folders!uu51dqbMtD00bwxJ' @ 0 : 0; will stop at '!actors!zL7Cmdr7HvZzPdxM' @ 1865 : 1
-2025/10/08-19:28:57.626 706c Compacting 1@0 + 1@1 files
-2025/10/08-19:28:57.704 706c Generated table #287@0: 390 keys, 320436 bytes
-2025/10/08-19:28:57.704 706c Compacted 1@0 + 1@1 files => 320436 bytes
-2025/10/08-19:28:57.780 706c compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/10/08-19:28:57.780 706c Delete type=2 #282
-2025/10/08-19:28:57.781 706c Delete type=2 #286
-2025/10/08-19:28:57.857 706c Manual compaction at level-0 from '!actors!zL7Cmdr7HvZzPdxM' @ 1865 : 1 .. '!folders!uu51dqbMtD00bwxJ' @ 0 : 0; will stop at (end)
+2025/10/08-22:44:02.248 6718 Recovering log #285
+2025/10/08-22:44:02.404 6718 Delete type=0 #285
+2025/10/08-22:44:02.404 6718 Delete type=3 #283
+2025/10/08-23:24:39.767 89a0 Level-0 table #291: started
+2025/10/08-23:24:39.881 89a0 Level-0 table #291: 91900 bytes OK
+2025/10/08-23:24:39.956 89a0 Delete type=0 #289
+2025/10/08-23:24:40.143 89a0 Manual compaction at level-0 from '!actors!0eci1VuyPL3IhIpR' @ 72057594037927935 : 1 .. '!folders!uu51dqbMtD00bwxJ' @ 0 : 0; will stop at '!actors.items!uFE6ohFfieZcqrNg.ig0ANPFUF5Ynmck1' @ 1959 : 1
+2025/10/08-23:24:40.143 89a0 Compacting 1@0 + 1@1 files
+2025/10/08-23:24:40.206 89a0 Generated table #292@0: 408 keys, 335402 bytes
+2025/10/08-23:24:40.206 89a0 Compacted 1@0 + 1@1 files => 335402 bytes
+2025/10/08-23:24:40.309 89a0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/10/08-23:24:40.309 89a0 Delete type=2 #287
+2025/10/08-23:24:40.310 89a0 Delete type=2 #291
+2025/10/08-23:24:40.410 89a0 Manual compaction at level-0 from '!actors.items!uFE6ohFfieZcqrNg.ig0ANPFUF5Ynmck1' @ 1959 : 1 .. '!folders!uu51dqbMtD00bwxJ' @ 0 : 0; will stop at (end)
