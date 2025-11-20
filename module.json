@@ -1,10 +1,10 @@
 {
   "id": "bnb-compendium",
   "title": "BnB Compendium",
-  "version": "Beta 0.1.6",
+  "version": "Beta 0.1.7",
   "compatibility": {
     "minimum": "12",
-    "verified": "13.350"
+    "verified": "13.351"
   },
   "relationships": {
     "systems": [
@@ -12,7 +12,7 @@
         "id": "bunkers-and-badasses",
         "type": "system",
         "compatibility": {
-          "verified": "0.7.2"
+          "verified": "0.7.3"
         }
       }
     ],
@@ -110,6 +110,6 @@
     }
   ],
   "url": "https://github.com/That-One-ROB/BnB-Compendium",
-  "manifest": "https://github.com/That-One-ROB/BnB-Compendium/releases/download/Beta-0.1.6/module.json",
-  "download": "https://github.com/That-One-ROB/BnB-Compendium/releases/download/Beta-0.1.6/bnb-compendium.zip"
+  "manifest": "https://github.com/That-One-ROB/BnB-Compendium/releases/download/Beta-0.1.7/module.json",
+  "download": "https://github.com/That-One-ROB/BnB-Compendium/releases/download/Beta-0.1.7/bnb-compendium.zip"
 }
